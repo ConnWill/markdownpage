@@ -1,7 +1,7 @@
 # Home Page
 ## Hi, My Name is Will Conn
 
-I am a student of CSE. And I do coding for pass time and I like to pass time making websites in markdown.
+I am a Senior at the University of Missouri, and these are some important pieces of information about me and my life.
 
 Navigate my website using these links
 
