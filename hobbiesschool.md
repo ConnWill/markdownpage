@@ -5,6 +5,7 @@ I have a lot of hobbies, however I rarely sort them by when I do said hobbies, s
 ### Python
 
 '''python
+
 import turtle
 
 def form_tri(side):
@@ -82,3 +83,4 @@ side = 300
 for i in range(10):
     form_tri(side)
     side -= 30
+'''
