@@ -6,7 +6,7 @@ I am a Senior at the University of Missouri, and these are some important pieces
 Navigate my website using these links
 
 * [Academics](./academics.md)
-* [Sports](./sports.md)
-* [Hobbies](./hobbies.md)
-* [Years of Love](./.md)
+* [In School Hobbies](./hobbiesschool.md)
+* [Out of School Hobbies](./hobbies.md)
+* [Years of Love](./love.md)
 
